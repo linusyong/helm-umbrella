@@ -1,0 +1,16 @@
+dependencies:
+# - name: metrics-server
+#   version: 3.12.1 # for v0.7.1
+#   repository: https://kubernetes-sigs.github.io/metrics-server
+# - name: opentelemetry-collector
+#   repository: https://open-telemetry.github.io/opentelemetry-helm-charts
+#   version: 0.100.0
+# - name: opentelemetry-operator
+#   repository: https://open-telemetry.github.io/opentelemetry-helm-charts
+#   version: 0.64.4
+# - name: base
+#   repository: https://istio-release.storage.googleapis.com/charts
+#   version: 1.22.3
+- name: sumologic
+  repository: https://sumologic.github.io/sumologic-kubernetes-collection
+  version: 4.9.0

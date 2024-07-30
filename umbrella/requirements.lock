@@ -1,0 +1,6 @@
+dependencies:
+- name: sumologic
+  repository: https://sumologic.github.io/sumologic-kubernetes-collection
+  version: 4.9.0
+digest: sha256:6d485824add7e7779bf63ca5c5d69544e2115295bf8e47f0c51ba1f523cfd74c
+generated: "2024-07-30T07:53:30.33805502Z"
